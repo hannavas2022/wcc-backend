@@ -54,6 +54,8 @@ npm run test-dev
 
 #### Postman Collection import in repo
 
+Link 0 https://app.getpostman.com/join-team?invite_code=188096ad281000ecd33932a724d74e5f&target_code=d1271d0429db3e9126cc48e18bfa08fb
+
 ### 1. Export Collection Postman
 
 In the left-hand panel, under the Collections tab, hover over the collection you want to export.
